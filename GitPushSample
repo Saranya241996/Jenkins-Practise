@@ -1,0 +1,12 @@
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i=1;
+		int j=2;
+		int k= i+j;
+		System.out.println("Hello World");
+		System.out.println("Print the value of k is :"+ k);
+	}
+
+}
